@@ -1,7 +1,7 @@
 
 # Projeto realizado pelo Programa Transforme-se | Serasa Experian e Wise Hands!
 
-## Com a orientação da Professor [Gabriel Nunes](https://github.com/gabrielnuunes)
+## Com a orientação da Professor [Diogo](https://github.com/)
 
 
 <p align="center">

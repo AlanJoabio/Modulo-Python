@@ -39,4 +39,22 @@ fraseCompleta = frase + ' ' + outroFrase;
 print(fraseCompleta);
 print()
 
+#Tamanho da String
+tamanho = len(frase);
+print('O tamanho do texto é:', tamanho);
+print()
 
+#Dividindo uma String em sub strings
+print("Dividindo a string: ");
+palavras = fraseCompleta.split();
+print(palavras);
+
+#Substituuindo partes das string
+print("Substituindo parte da string: ");
+novaFrase = frase.replace("Mundo", "Python");
+print(novaFrase);
+
+#Convertendo para letras maiúscilas e minúsculas
+print("Converte para Letra Minuscula e Maiuscula: ")
+print("Minúsculas: ", frase.lower());
+print("Maiúscula: ", frase.upper());

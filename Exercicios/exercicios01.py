@@ -5,7 +5,8 @@ print (nome);
 idade = input('Qual é a sua idade? ');
 print(idade);
 print("Olá meu nome é {}".format(nome), "e a","Minha idade é {}".format(idade), "anos", "\n");
-"\n"
+print(f"Olá meu nome é {nome}, e a , Minha idade é {idade} anos, \n")
+
 #2) Comprimento da frase
 frase = 'Eu gosto de programação';
 print ('O comprimento do texto é: ', len(frase), "\n");
@@ -43,14 +44,14 @@ print("Resultado do valor é ",resultado, "\n");
 
 #8 Extra: Solicitar ao usuario digitar os valores 
 num3 = int(input("Digite um numero: "));
-num4 = int(input("Digite segundo numero: "), "\n");
+num4 = int(input("Digite segundo numero: "));
 multi = num3 * num4;
 print("Resultado é ",multi);
 print("O resultado entre {} e {} é igual a {} ".format(num3,num4,multi), "\n");
 
 #Extra
 numero1 = int(input("Digite um número: "));
-numero2 =int(input("Digite um número: "), "\n");
+numero2 = int(input("Digite um número: "));
 soma          = numero1+numero2;
 subtracao     = numero1-numero2;
 multiplicacao = numero1*numero2;

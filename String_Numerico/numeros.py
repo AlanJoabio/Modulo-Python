@@ -62,3 +62,5 @@ numeroFormatado = 1234.56789;
 print("Numeros formatados: ", "\n");
 print(f"Número com 2 casa decimais {numeroFormatado:.2f}", "\n");
 print("Número formatado com 2 casas decimais {:.2f}".format(numeroFormatado), "\n");
+
+#

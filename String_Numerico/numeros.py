@@ -17,4 +17,13 @@ print("Subtração: ", subtracao);
 print("Multiplicação: ", multiplicacao);
 print("Divisão: ", divisao);
 print("Resto: ",resto_da_divisa);
-print("Potência: ", potencia);
+print("Potência: ", potencia, " \n");
+
+#Arrendodamento de número
+numeroFloat = 3.14;
+#float é um numero com casas decimais, ex.:
+numeroArrendodado = round(numeroFloat);
+print ("O arredondamento do float foi:", numeroArrendodado," \n")
+
+
+#Função matématica da biblioteca math

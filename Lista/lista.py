@@ -39,4 +39,37 @@ print (listaFinal,"\n");
 listaRepetida = [0] * 4;
 print(listaRepetida);
 
-#
+#Fatiamento de listas
+lista = ['a','b','c','d'];
+sublista = lista [1:4];
+print(sublista);
+
+#Adicionando um item ao final da lista
+frutas = ["maça", "banana", "laranja"];
+frutas.append("abacaxi");
+print(frutas);
+
+#Inserindo um item em um indíce específico da lista
+frutas.insert(1, "morango");
+print(frutas);
+print();
+
+#Removando um item da lista com o metodo remove
+frutaRemovida = frutas.remove("banana");
+
+#Removendo um elemento da lista pelo seu índice
+frutaRemovida = frutas.pop(2);
+print (frutas);
+print ("Fruta removida:", frutaRemovida);
+
+#Ordenando uma lista
+frutas.sort();
+print("Ordenando: ", frutas);
+
+#Embaralhando uma lista
+from random import shuffle
+
+shuffle(frutas);
+print("\nLista embaralhada: ", frutas)
+
+

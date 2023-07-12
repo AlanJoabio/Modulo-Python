@@ -14,7 +14,7 @@ def jogo_da_adivinhacao():
         tentativas += 1
 
         if tentativa == numero_secreto:
-            print(f"Parabéns! Você acertou o número em {tentativas} tentativas!")
+            print(f"Parabéns! Você acertou o número em {tentativas} tentativas! ❤️❤️")
             break
         elif tentativa < numero_secreto:
             print("O número é maior. Tente novamente!")
@@ -25,6 +25,6 @@ def jogo_da_adivinhacao():
     if reiniciar.lower() == "s":
         jogo_da_adivinhacao()
     else:
-        print("Obrigado por jogar. Até a próxima!")
+        print("Obrigado por jogar. Até a próxima! ❤️❤️❤️")
 
 jogo_da_adivinhacao()

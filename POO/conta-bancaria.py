@@ -23,3 +23,13 @@ conta1 = Conta(1234, "Alan");
 conta1.depositar(100);
 conta1.sacar(35);
 conta1.extrato();
+
+print("-------------------");
+print()
+
+conta1 = Conta(12345, "Joabio");
+conta1.depositar(120);
+conta1.sacar(30);
+conta1.extrato();
+
+

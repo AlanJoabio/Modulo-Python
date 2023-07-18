@@ -25,15 +25,34 @@
 2. [Projetos](./Projeto%20Jogo%20de%20Adivinhação/)
    * [Jogo de Adivinhação](./Projeto%20Jogo%20de%20Adivinhação/jogo-adivinhacao.py)
 
-3. [Pratica na Aula](./Pratica%20na%20Aula/)
-   * [Estrutura]
+3. [Praticas nas Aulas](./Pratica%20na%20Aula/)
+   * [Estruturas Condicionais](./Pratica%20na%20Aula/Estruturas%20Condicionais/estruturas-condicionais.py)
+   * [Estruturas de Repetição](./Pratica%20na%20Aula/Estruturas%20de%20Repetição/)
+     * [For](./Pratica%20na%20Aula/Estruturas%20de%20Repetição/for.py)
+     * [While](./Pratica%20na%20Aula/Estruturas%20de%20Repetição/while.py)
+   * [Operadores](./Pratica%20na%20Aula/Operadores/)
+     * [Operadores Aritmeticos](./Pratica%20na%20Aula/Operadores/operadores-aritmeticos.py)
+     * [Operadores Relacionais](./Pratica%20na%20Aula/Operadores/operadores-relacionais.py)
+   * [Programação Orientada a Objetos - POO](./Pratica%20na%20Aula/POO/)
+     * [Definição da classe](./Pratica%20na%20Aula/POO/cachorro.py)
+     * [Herança e Polimorfismo](./Pratica%20na%20Aula/POO/conta_bancaria_final.py)
+     * [Solução orientada a objetos para um banco](./Pratica%20na%20Aula/POO/conta-bancaria.py)
+       * [Criando uma instância da classe](./Pratica%20na%20Aula/POO/main.py)
+   * [Tipo de Dados](./Pratica%20na%20Aula/Tipo%20de%20Dados/)
+     * [Dicionario](./Pratica%20na%20Aula/Tipo%20de%20Dados/dicionario.py)
+     * [Lista](./Pratica%20na%20Aula/Tipo%20de%20Dados/lista.py)
+     * [Numeros](./Pratica%20na%20Aula/Tipo%20de%20Dados/numeros.py)
+     * [Strings](./Pratica%20na%20Aula/Tipo%20de%20Dados/strings.py)
+     * [Tuplas](./Pratica%20na%20Aula/Tipo%20de%20Dados/tuplas.py)
+     * [Variavel](./Pratica%20na%20Aula/Tipo%20de%20Dados/variavel.py)
   
 ***
 ## Referência
  
- - [Variaveis - String - Numeros](./pdf/Variaveis-string-numeros.pdf) 
- - [Listas - Tuplas - Dicionarios](./pdf/Listas-Tuplas-Dicionarios-atualizado.pdf)
- - [Estruturas - Operadores](./pdf/Estruturas-operadores-python.pdf)
+ - [Variaveis - String - Numeros](./File/pdf/Variaveis-string-numeros.pdf) 
+ - [Listas - Tuplas - Dicionarios](./File/pdf/Listas-Tuplas-Dicionarios-atualizado.pdf)
+ - [Estruturas - Operadores](./File/pdf/Estruturas-operadores-python.pdf)
+ - [Programação Orientada a Objetos - POO](./File/pdf/POO.pptx%20(1).pdf)
 
 ******
 ## Licença
@@ -43,7 +62,7 @@
 ________________
 
 <p align="center">
-<img src="./img/image001.jpg">
+<img src="./File/img/image001.jpg">
 </p>
 
 ****

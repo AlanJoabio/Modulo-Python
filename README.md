@@ -1,3 +1,8 @@
+
+> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENCE) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+----
+
 <p>
 <h1 align="center">Transforme-se PcD | Módulo Python</h1>
 </p>
@@ -8,13 +13,13 @@
 
 
 ## Projeto realizado pelo Programa Transforme-se da Serasa Experian e Wise Hands!
-***
-> #### O programa Transforme-se é uma parceria da Serasa Experian com a Wise Hands e tem como objetivo estimular o aprendizado de PcD.
+
+
+>> #### O programa Transforme-se é uma parceria da Serasa Experian com a Wise Hands e tem como objetivo estimular o aprendizado de PcD. 
 
 ***
 
 ## As atividades e os projetos do Módulo Python, Com a orientação do Professor [Diego Alves](https://github.com/diegoalvesone).
-### Veja o [repositório no github](https://github.com/diegoalvesone/modulo-python/tree/main) do professor Diego.
 
 ## Índice
 
@@ -58,14 +63,18 @@
 ******
 ## Licença
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENCE)
+Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
+
+A Licença MIT é uma licença de software permissiva que permite o uso, cópia, modificação, distribuição e sublicenciamento do código, tanto para fins comerciais quanto não comerciais. No entanto, ela acompanha uma declaração de isenção de responsabilidade, na qual o autor não se responsabiliza por quaisquer danos ou problemas decorrentes do uso do código.
+
+Para obter mais detalhes, consulte o arquivo [LICENSE](./LICENCE).
 
 ________________
+>>> ### Veja o [repositório no github](https://github.com/diegoalvesone/modulo-python/tree/main) do professor Diego.
+-----
 
 <p align="center">
 <img src="./File/img/image001.jpg">
 </p>
 
 ****
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-

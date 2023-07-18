@@ -14,6 +14,7 @@
 ***
 
 ## As atividades e os projetos do Módulo Python, Com a orientação do Professor [Diego Alves](https://github.com/diegoalvesone).
+### Veja o [repositório no github](https://github.com/diegoalvesone/modulo-python/tree/main) do professor Diego.
 
 ## Índice
 

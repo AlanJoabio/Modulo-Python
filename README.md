@@ -22,10 +22,11 @@
    * [Exercicio 02](./Exercicio/exercicio02.py)
    * [Exercicio 03](./Exercicio/exercicio03.py)
    * [Exercicio 04](./Exercicio/exercicio04.py)
-2. [Projetos](./projetos/)
+2. [Projetos](./Projeto%20Jogo%20de%20Adivinhação/)
    * [Jogo de Adivinhação](./Projeto%20Jogo%20de%20Adivinhação/jogo-adivinhacao.py)
 
-3. [Tipo de Dados](./Aula-praticando/aula01.py)
+3. [Pratica na Aula](./Pratica%20na%20Aula/)
+   * [Estrutura]
   
 ***
 ## Referência

@@ -51,6 +51,7 @@
      * [Strings](./Pratica%20na%20Aula/Tipo%20de%20Dados/strings.py)
      * [Tuplas](./Pratica%20na%20Aula/Tipo%20de%20Dados/tuplas.py)
      * [Variavel](./Pratica%20na%20Aula/Tipo%20de%20Dados/variavel.py)
+   * [Testes unitários](./Pratica%20na%20Aula/Teste/)
   
 ***
 ## Referência
@@ -59,6 +60,7 @@
  - [Listas - Tuplas - Dicionarios](./File/pdf/Listas-Tuplas-Dicionarios-atualizado.pdf)
  - [Estruturas - Operadores](./File/pdf/Estruturas-operadores-python.pdf)
  - [Programação Orientada a Objetos - POO](./File/pdf/POO.pptx%20(1).pdf)
+ - [Testes unitários](./File/pdf/Testes.pptx-1.pdf)
 
 ******
 ## Licença
